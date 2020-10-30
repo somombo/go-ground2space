@@ -16,7 +16,6 @@
     "permissions": [
         "webRequest",
         "*://play.golang.org/*",
-        "*://*.golang.org/*",
         "webRequestBlocking"
     ]
 }
