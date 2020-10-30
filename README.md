@@ -5,5 +5,6 @@
 
 Every time someone shares a Go playground link with you, with this extension, you can now rest assured, knowing that the link will correctly open up on Go Play Space instead so you can enjoy syntax highlighting goodness and other nice features!
 
+This works in both Chrome and Edge browsers.
 
 ![Go Ground to Space Screenshot](images/screenshot.png)
