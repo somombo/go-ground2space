@@ -1,0 +1,5 @@
+*.ink
+*.crx
+*.pem
+*.zip
+/images/*.png

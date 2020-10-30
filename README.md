@@ -1,2 +1,9 @@
-# go-ground2space
-Chrome extension that redirects from the Go Playground site to Go Play-Space which has syntax highlighting
+# Go Ground-To-Space
+
+![Go Ground to Space Logo](public/icon128.png)
+
+
+Every time someone shares a Go playground link with you, with this extension, you can now rest assured, knowing that the link will correctly open up on Go Play Space instead so you can enjoy syntax highlighting goodness and other nice features!
+
+
+![Go Ground to Space Screenshot](public/screenshot.png)
