@@ -8,3 +8,5 @@ Every time someone shares a Go playground link with you, with this extension, yo
 This works in both Chrome and Edge browsers.
 
 ![Go Ground to Space Screenshot](images/screenshot.png)
+
+### [Download and Install it from the Webstore](https://chrome.google.com/webstore/detail/go-ground2space/gjhldliodacacnclepkhpjbabdlebpjp)
